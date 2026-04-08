@@ -1,9 +1,11 @@
 public class Mate{
     public static void main(String[] args) {
-        System.out.println("Suma");
-        System.out.println(5+3);
+        int a=3;
+        int b=5;
+        int sum = a + b;
+        
+        System.out.println("La suma de:" + a + " + " + b + " es =" + sum);
     }
-
-
-
 }
+
+
