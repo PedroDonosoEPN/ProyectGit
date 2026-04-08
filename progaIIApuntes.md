@@ -1,17 +1,17 @@
-# Clase I: Git
+# Clase DI: Git
 ## Comandos Linux   
      -   git --version : Muestra la version instalada de Git.
     -   java --version : Muestra la version de java instalada.
-    -   cd
-    -   touch 
-    -   rm 
-    -   history
-    -   git init
-    -   code
+    -   pwd: Muestra la ubucacion actual.
+    -   cd: Sirve para cambiar de ubicacion.
+    -   touch: Sirve para crear un archivo en blanco
+    -   rm : Sirve para eliminar un archivo.
+    -   history : Muestra el historial de comandos en la terminal.
+    -   code: Abre un archivo o carpeta.
 
 ## Primer prg en Java
 ```java
-public class HelloWordl {
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hola Mundo!!");
     }
@@ -41,9 +41,9 @@ public class Mate{
     ### Esta es cada dia
     -git status:
     -git add XXX/
-    - git commit -m "Creacion del proyecto"
+    - git commit -Sm "Creacion del proyecto"
     - git push : Envia los cambios a la nube.
     - 
     -git pull: Trae los cambios de todos.
-    -git
+    -git 
     
