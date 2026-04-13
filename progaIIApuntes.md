@@ -1,13 +1,15 @@
-# Clase DI: Git
+### cuaderno PedroDonoso 
+# Clase I: Git
 ## Comandos Linux   
      -   git --version : Muestra la version instalada de Git.
     -   java --version : Muestra la version de java instalada.
-    -   pwd: Muestra la ubucacion actual.
+    -   pwd: Muestra la ubucacion actual.       
     -   cd: Sirve para cambiar de ubicacion.
     -   touch: Sirve para crear un archivo en blanco
     -   rm : Sirve para eliminar un archivo.
     -   history : Muestra el historial de comandos en la terminal.
     -   code: Abre un archivo o carpeta.
+    -   mkdir: Crea una carpeta.
 
 ## Primer prg en Java
 ```java
@@ -39,11 +41,10 @@ public class Mate{
     
     -
     ### Esta es cada dia
-    -git status:
-    -git add XXX/
+    -git status: Muestra los cambios en tiempo rea.
+    -git add XXX/ : Sirve para agregar un archivo .
     - git commit -Sm "Creacion del proyecto"
     - git push : Envia los cambios a la nube.
     - 
     -git pull: Trae los cambios de todos.
-    -git 
     
